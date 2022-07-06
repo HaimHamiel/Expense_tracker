@@ -15,8 +15,12 @@ and add new expense with Chart that updated.</p><h2>General Information</h2>
 <li>JavaScript</li>
 </ul><ul>
 <li>React</li>
-</ul><h2>Screenshots</h2>
-<hr><p><img src="Screenshot%5CScreenshot1.png" alt=""></p><h2>Setup</h2>
+</ul>
+<ul>
+<li>Create React App</li>
+</ul>
+<h2>Screenshots</h2>
+<hr><p><img src="Screenshot/Screenshot1.png" alt=""></p><h2>Setup</h2>
 <hr><p>To run this project, install it locally using npm:</p><h5>Steps</h5><ul>
 <li>$ cd ../expense-tracker</li>
 </ul><ul>
