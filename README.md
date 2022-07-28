@@ -1,5 +1,5 @@
-<h1>expense_tracker</h1>
-<hr><p>An expense tracker that
+<h1>Expense_tracker</h1>
+<hr><p>An Expense Tracker that
 Filter expenses by year
 and add new expense with Chart that updated.</p><h2>General Information</h2>
 <hr><ul>
